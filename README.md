@@ -26,7 +26,7 @@ Key features include:
 ## 1-Welcome Screen
 ![1](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20173222.png?raw=true)
 
-## 1-Welcome Screen
+## 2-Details Screen
 ![4](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174318.png?raw=true)
 
 ## 1-Welcome Screen
