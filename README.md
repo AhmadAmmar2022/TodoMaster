@@ -16,7 +16,7 @@ Key features include:
 - **Adding or removing** items from the favorites list as needed.
 
   
-Technologies Used
+🛠️ Technologies Used
 Flutter & Dart 🚀🎯: Front-end framework and programming language for building a cross-platform user interface.
 SQLite 🗄️: Local database for offline data storage and management
 
