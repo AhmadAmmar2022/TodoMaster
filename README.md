@@ -39,18 +39,22 @@ Key features include:
 
 ## 5-Add Task to Favorites
 ![2](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20173446.png?raw=true)
+
 ## 6-Favorites Screen
 ![3](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20173822.png?raw=true)
 
-## 1-Welcome Screen
+## 7- Done Screen
 ![5](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174429.png?raw=true)
 
 ## 1-Welcome Screen
 ![7](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174544.png?raw=true)
+
 ## 1-Welcome Screen
-![8](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174638.png?raw=true)
+![8](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174638.png?raw=true
+
 ## 1-Welcome Screen
 ![9](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174658.png?raw=true)
+
 ## 1-Welcome Screen
 ![10](https://github.com/AhmadAmmar2022/TodoMaster/blob/master/Screenschots_ToDo/Screenshot%202025-03-16%20174733.png?raw=true)
 
